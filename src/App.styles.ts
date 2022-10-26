@@ -18,3 +18,13 @@ export const Header = styled.h1`
     text-align: center;
     margin-bottom: 30px
 `
+
+export const ScreenWarning = styled.div`
+    text-align:center;
+
+
+    .emoji { 
+        font-size: 50px;
+        margin-bottom: 20px
+    }
+`
