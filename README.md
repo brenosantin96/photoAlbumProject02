@@ -28,10 +28,10 @@ Access
 After creating a project, pay attention to your firebaseConfig, u will have to get ur config and put in the .env files, just like i did, here some pics:
 
 <div>Here the configuration in env files 👇 </div> <br>
-![img text](https://github.com/brenosantin96 shoppingCartBreno/blob/main Carrinho-de-compras-Google-Chrome-2022-09-25-03-18-57.gif)
+![alt text](https://github.com/brenosantin96/photoAlbumProject02/blob/main/fireconfigenv.png)
 
 <div>Here the configuration in firebase</div> <br>
-![img text](https://github.com/brenosantin96/shoppingCartBreno/blob/main/Carrinho-de-compras-Google-Chrome-2022-09-25-03-18-57.gif)
+![alt text](https://github.com/brenosantin96/photoAlbumProject02/blob/main/firecofig.png)
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -62,7 +62,7 @@ Look the port that is hosting the system in the cmd, then open the browser and t
 
 ### Images 
 
-![img text](https://github.com/brenosantin96/shoppingCartBreno/blob/main/Carrinho-de-compras-Google-Chrome-2022-09-25-03-18-57.gif)
+![img text](https://github.com/brenosantin96/photoAlbumProject02/blob/main/galleryGif.gif)
 
 
 
